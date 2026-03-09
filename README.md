@@ -75,10 +75,7 @@ Developed a college-wide portal that aggregates all faculty feedback into a sing
 
 <div align="center">
 
-![Nivedan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nivedanps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedanps&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=nivedanps&theme=tokyonight&hide_border=true)
 </div>
 
 ---
