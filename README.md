@@ -20,7 +20,7 @@
 <!-- ░░░ BADGE ROW ░░░ -->
 
 
-<img src="https://img.shields.io/badge/🟢_STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=000022"/>
+<img src="https://img.shields.io/badge/_STATUS-OPEN%20TO%20WORK-00ff88?style=for-the-badge&labelColor=000022"/>
 &nbsp;
 <img src="https://img.shields.io/badge/📍_LOCATION-MYSURU%20🇮🇳-ff9900?style=for-the-badge&labelColor=000022"/>
 
@@ -103,15 +103,7 @@ const nivedan = {
 
 </td>
 </tr>
-</table>
 
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 ## 📊 `> GITHUB_STATS.dashboard`
 
@@ -129,30 +121,8 @@ const nivedan = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nivedanps&theme=radical&hide_border=true&background=000022&ring=00ffff&fire=ff6ec7&currStreakLabel=00ffff&sideLabels=ffffff&dates=aaaaff&border_radius=15" width="600"/>
 
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 
-## 🎓 `> CERTIFICATES.list()`
-
-<div align="center">
-
-| 🏅 | Certificate | 🏢 Issuer | 📌 |
-|:---:|:---|:---:|:---:|
-| ☕ | **Java Skills** | Acube | ✅ |
-| ☁️ | **AWS Cloud Practitioner Essentials** | Amazon | ✅ |
-| 🔐 | **Cyber Security Technologies** | — | ✅ |
-| 🤖 | **AI Fundamentals** | IBM | ✅ |
-| ⚛️ | **Front-End Apps with React** | — | ✅ |
-| 🏆 | **Hackathons** | Mysuru (×2) | 🏅 |
-| 🧠 | **AI Tool Workshops** | Online (×8) | 📚 |
-
-</div>
 
 ---
 
