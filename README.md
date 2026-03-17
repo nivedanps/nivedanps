@@ -1,7 +1,15 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nivedan%20P%20S&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Pre-Final%20Year%20CSE&descAlignY=55&descSize=18" width="100%"/>
+```
+███╗   ██╗██╗██╗   ██╗███████╗██████╗  █████╗ ███╗   ██╗
+████╗  ██║██║██║   ██║██╔════╝██╔══██╗██╔══██╗████╗  ██║
+██╔██╗ ██║██║██║   ██║█████╗  ██║  ██║███████║██╔██╗ ██║
+██║╚██╗██║██║╚██╗ ██╔╝██╔══╝  ██║  ██║██╔══██║██║╚██╗██║
+██║ ╚████║██║ ╚████╔╝ ███████╗██████╔╝██║  ██║██║ ╚████║
+╚═╝  ╚═══╝╚═╝  ╚═══╝  ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+### 🎓 Software Engineering Student · AI Enthusiast · 💻 Full-Stack Explorer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nivedan-ps-b49513384)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nivedanps1234@gmail.com)
@@ -55,7 +63,7 @@ I'm **Nivedan P S**, a pre-final year Computer Science student . I love turning 
 
 <div align="center">
 
-
+*🌟 Open to internship & fresher opportunities in software development!*
 
 **Let's connect and build something awesome together.**
 
