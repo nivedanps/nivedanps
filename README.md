@@ -7,7 +7,7 @@
 
 ![Open to Internships](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Internships-0d2441?style=flat-square&labelColor=0d2441&color=1f6feb)
 ![Building in Public](https://img.shields.io/badge/%F0%9F%9F%A2%20Building%20in%20Public-083d30?style=flat-square&color=0d4c2c)
-![Mysuru,India](https://img.shields.io/badge/%F0%9F%93%8D%20Bengaluru%2C%20India-1c1c1c?style=flat-square&color=2d1a1a)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Mysuru%2C%20India-1c1c1c?style=flat-square&color=2d1a1a)
 
 <br/>
 
@@ -61,8 +61,23 @@ I believe great software is part engineering, part craft — and I care deeply a
 
 ---
 
+## 📌 Featured Projects
 
+> ⚠️ *Replace these placeholders with your real projects!*
 
+### 🌐 [Project Name — Web Portal](https://github.com/nivedanps)
+A full-stack web application built with a clean UI and practical backend. Focused on usability and real-world utility.
+
+`React` `PHP` `MySQL` `HTML/CSS`
+
+---
+
+### 🤖 [Project Name — AI-Powered Tool](https://github.com/nivedanps)
+Leveraging Python and ML libraries to build an intelligent, practical application.
+
+`Python` `Scikit-learn` `Jupyter` `Pandas`
+
+---
 
 ## 📊 GitHub Stats
 
