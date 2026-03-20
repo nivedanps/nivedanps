@@ -28,16 +28,7 @@ I believe great software is part engineering, part craft — and I care deeply a
 
 ---
 
-## 🚀 Currently
 
-| | |
-|---|---|
-| 🔭 **Building** | Full-stack apps with React + PHP |
-| 🌱 **Learning** | ML pipelines & AI-powered tooling |
-| 🎯 **Seeking** | SWE / ML internship opportunities |
-| 🤝 **Open to** | Collaborating on open-source projects |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -61,23 +52,6 @@ I believe great software is part engineering, part craft — and I care deeply a
 
 ---
 
-## 📌 Featured Projects
-
-> ⚠️ *Replace these placeholders with your real projects!*
-
-### 🌐 [Project Name — Web Portal](https://github.com/nivedanps)
-A full-stack web application built with a clean UI and practical backend. Focused on usability and real-world utility.
-
-`React` `PHP` `MySQL` `HTML/CSS`
-
----
-
-### 🤖 [Project Name — AI-Powered Tool](https://github.com/nivedanps)
-Leveraging Python and ML libraries to build an intelligent, practical application.
-
-`Python` `Scikit-learn` `Jupyter` `Pandas`
-
----
 
 ## 📊 GitHub Stats
 
