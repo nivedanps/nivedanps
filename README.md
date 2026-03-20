@@ -7,7 +7,7 @@
 
 ![Open to Internships](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Internships-0d2441?style=flat-square&labelColor=0d2441&color=1f6feb)
 ![Building in Public](https://img.shields.io/badge/%F0%9F%9F%A2%20Building%20in%20Public-083d30?style=flat-square&color=0d4c2c)
-![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Bengaluru%2C%20India-1c1c1c?style=flat-square&color=2d1a1a)
+![Mysuru,India](https://img.shields.io/badge/%F0%9F%93%8D%20Bengaluru%2C%20India-1c1c1c?style=flat-square&color=2d1a1a)
 
 <br/>
 
