@@ -34,24 +34,11 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
 
 ```yaml
-name:       Nivedan P S
-role:       Full Stack Developer & AI Enthusiast
-college:    Pre-Final Year, B.E. CSE
-location:   Mysuru, Karnataka, India
-status:     Actively seeking internships & fresher roles
+    Passionate coding enthusiast on a mission to build things that matter."
 
-currently:
-  - Building AI-powered web tools
-  - Learning FastAPI + LLM integration
-  - Shipping projects in public
+I'm Nivedan P S, a pre-final year Computer Science student . I love turning ideas into working software — from web portals to AI-powered tools
 
-interests:
-  - Full Stack Development
-  - AI / Machine Learning
-  - Open Source Contribution
-  - Clean, scalable architecture
-
-philosophy: "Ship fast. Learn faster. Build things that matter."
+ 
 ```
 
 <br clear="right"/>
