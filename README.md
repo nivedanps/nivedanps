@@ -63,7 +63,7 @@ I'm **Nivedan P S**, a pre-final year Computer Science student . I love turning 
 
 <div align="center">
 
-*🌟 Open to internship & fresher opportunities in software development!*
+
 
 **Let's connect and build something awesome together.**
 
