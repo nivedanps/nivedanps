@@ -101,19 +101,6 @@ I'm Nivedan P S, a pre-final year Computer Science student . I love turning idea
 <br/>
 
 <!-- PROJECT CARDS TABLE -->
-| 🚀 Project | 📝 Description | 🛠 Stack | 🔗 Link |
-|:-----------|:---------------|:---------|:--------|
-| **Project Alpha** | AI-powered web tool for [what it does] | React · FastAPI · Python | [Live →](#) |
-| **Project Beta** | Full-stack portal with [key feature] | PHP · MySQL · HTML/CSS | [Repo →](#) |
-| **Project Gamma** | ML model for [problem it solves] | Python · Pandas · Jupyter | [Repo →](#) |
-
-> 💡 *Replace placeholders with your actual projects — this table format renders beautifully on GitHub!*
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> GitHub Stats
 
 <div align="center">
 
@@ -134,31 +121,9 @@ I'm Nivedan P S, a pre-final year Computer Science student . I love turning idea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🏆 Achievements
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nivedanps&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nivedanps/nivedanps/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nivedanps/nivedanps/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nivedanps/nivedanps/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
